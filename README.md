@@ -21,7 +21,7 @@ The key checkpoints for this assignment are,
 - [ ] [Write a report](#writing-report)
 - [ ] [Submit your work](#submission--grading)
 
-All deliverables are due by **Friday, February 29th**. This is a group assignment, see the assignment policies for this class.[^1]
+All deliverables are due by **Thursday, February 29th**. This is a group assignment, see the assignment policies for this class.[^1]
 
 ## Task: Retrieval Augmented Generation (RAG)
 
