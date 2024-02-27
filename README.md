@@ -21,7 +21,7 @@ The key checkpoints for this assignment are,
 - [ ] [Write a report](#writing-report)
 - [ ] [Submit your work](#submission--grading)
 
-All deliverables are due by **Thursday, February 29th**. This is a group assignment, see the assignment policies for this class.[^1]
+All deliverables are due by **Tuesday, March 12th**. This is a group assignment, see the assignment policies for this class.[^1]
 
 ## Task: Retrieval Augmented Generation (RAG)
 
@@ -142,7 +142,7 @@ All the code for your data preprocessing, model development and evaluation will 
 
 ## Generating results
 
-Finally, you will run your systems on our test set (questions only) and submit your results to us. This test set will be released **three days** before the assignment is due.
+Finally, you will run your systems on our test set (questions only) and submit your results to us. This test set will be released on **Monday, March 11th**.
 
 ### Unseen test set
 
