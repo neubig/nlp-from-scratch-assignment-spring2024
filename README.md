@@ -44,15 +44,15 @@ Read our [model and data policy](#model-and-data-policy) for this assignment.
 For your test set and the RAG systems, you will first need to compile a knowledge resource of relevant documents. You are free to use any publicly available resource, but we *highly recommend* including the following,
 
 + Faculty @ LTI
-    - List of faculty ([LTI faculty directory](https://lti.cs.cmu.edu/directory/all/154/1))
-    - Research papers by LTI faculty and their metadata ([Semantic Scholar API](https://www.semanticscholar.org/product/api))
+    - List of faculty ([LTI faculty directory](https://lti.cs.cmu.edu/people/faculty/index.html)). Limit to "Core Faculty" for this assignment.
+    - Research papers by LTI faculty and their metadata ([Semantic Scholar API](https://www.semanticscholar.org/product/api)). Limit your resource to open access papers published in 2023. Include both the paper and its metadata. You can limit the metadata to title, abstract, authors, publication venue, year and tldr. 
     - Teaching (see below)
 + Courses @ CMU
     - Courses offered by each department at CMU and their metadata such as instructors, locations, and credits. ([Schedule of Classes](https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/completeSchedule))
     - Academic calendars for 2023-2024 and 2024-2025 ([CMU calendar](https://www.cmu.edu/hub/calendar/))
 + Academics @ LTI
-    - Programs offered by LTI ([website](https://lti.cs.cmu.edu/learn))
-    - Program handbooks for information on curriculum, requirements and staff ([PhD](https://lti.cs.cmu.edu/sites/default/files/PhD_Student_Handbook_2023-2024.pdf), [MLT](https://lti.cs.cmu.edu/sites/default/files/MLT%20Student%20Handbook%202023%20-%202024.pdf), [MIIS](https://lti.cs.cmu.edu/sites/default/files/MIIS%20Handbook_2023%20-%202024.pdf), [MCDS](https://lti.cs.cmu.edu/sites/default/files/MCDS%20Handbook%2023-24%20AY.pdf), [MSAII](https://msaii.cs.cmu.edu/sites/default/files/Handbook-MSAII-2022-2023.pdf))
+    - Programs offered by LTI ([website](https://lti.cs.cmu.edu/academics/index.html)). Navigate to individual program webpages to find program overview, requirements and curriculum etc.,
+    - Program handbooks for information on curriculum, requirements and staff ([PhD](https://lti.cs.cmu.edu/academics/phd-programs/files/handbook_phd_2023-2024.pdf), [MLT](https://lti.cs.cmu.edu/academics/masters-programs/files/mlt-student-handbook-2023-2024.pdf), [MIIS](https://lti.cs.cmu.edu/academics/masters-programs/files/miis-handbook_2023-2024.pdf), [MCDS](https://lti.cs.cmu.edu/academics/masters-programs/files/mcds-student-handbook-2023_2024.pdf), [MSAII](https://lti.cs.cmu.edu/academics/masters-programs/files/handbook-msaii-2022-2023.pdf))
 + Events @ CMU
     - Spring carnival and reunion weekend 2024 ([schedule](https://web.cvent.com/event/ab7f7aba-4e7c-4637-a1fc-dd1f608702c4/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce?locale=en))
     - Commencement 2024 ([schedule](https://www.cmu.edu/commencement/schedule/index.html))
